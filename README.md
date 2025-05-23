@@ -17,3 +17,5 @@ Hi, I am judith omenma,  a data analytics enthusiast with experience in SQL, Exc
 - SQL: Open `Sql` files in a database tool like MySQL Workbench 
 - Excel: Open `.xlsx` files in Microsoft Excel.
 
+Feel free to reach out via my email for questions/collaborations
+juditheze.c@gmail.com
