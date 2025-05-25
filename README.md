@@ -6,7 +6,7 @@ Hi, I am judith omenma,  a data analytics enthusiast with experience in SQL, Exc
 ### 1. SQL world layoff Analysis
 - Description: Analysed the world layoff data to identify trends.
 - Files: ` MYSQL_DATA_ CLEANING.sql, Exploratory analysis.sql, layoffs.csv’
-- Skills: SQL (JOIN, window function, CTE, logical statements,aggregate functions )
+- Skills: SQL (JOIN, window function, CTE, logical operators)
 
 ### 2. Excel bike buyer Dashboard
 - Description: Built an interactive dashboard to track bike buyers.
